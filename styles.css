@@ -1,0 +1,24 @@
+.title {
+ 
+    color: black;
+    text-align: center;
+    font-size: 48px;
+}
+.recetas{
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+.open{
+    display: block;
+    margin-top: 5%;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 5%;
+}
+.recipes{
+    background-color: burlywood;
+    color:whitesmoke;
+    text-align: center;
+    font-size: 48px; 
+}
+
